@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+
+.title{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: #35424a;
+    padding: 1rem;
+    color: #fff;
+    border-bottom: 3px solid #a9508b;
+    
+
+}
+
+.link{
+    display: flex;
+    justify-content: end;
+
+    
+    
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    padding:10px;
+    font-size: 12px;
+}
+
+.title p{
+    padding-top: 8px;
+}
+
+.showcase{
+    width: 100%;
+    height: 25rem;
+    
+}
+
+.title_2{
+    position: relative;
+    bottom: 16rem;
+    text-align: center;
+    color: #fff;
+
+
+}
+
+.webMain{
+    position: relative;
+    bottom: 15rem;
+    text-align: center;
+    color: #fff;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #35424a;
+    padding: 1rem;
+    color: #fff;
+    position: relative;
+    bottom: 77.8px;
+}
+
+#button{
+    background-color: red;
+    color:#fff;
+    border: none;
+    margin-left: 5px;
+    padding: 6px;
+    font-size: 12px;
+}
+
+.mar_Style_Des{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+
+    
+}
+
+img{
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+h5{
+    margin-bottom: 10px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #35424a;
+    padding: 1rem;
+    color: #fff;
+    position: relative;
+    top: 20px;
+    font-size: 10px;
+}
+
+.content_img{
+    width: 10%;
+    margin: 10px;
+
+}
